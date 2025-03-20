@@ -1,101 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 Passionate Software Engineer | Python, Django, NLP, and Beyond<br>💡 AI Enthusiast | Bengali NLP Innovator | Problem Solver<br>🔥 Building Intelligent Solutions with Python, Django, and Deep Learning<br>🛠️ Software Engineer | Turning Ideas into Scalable Solutions<br>🎯 Competitive Programmer | IEEE Published Researcher | Full Stack Developer<br>🌟 Bridging Software Development and Research for Real-World Impact
 
-<!--
-**mhtusher131/mhtusher131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mhtusar120725/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mhtusher131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhtusar120725@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**import os
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mhtusher131&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mhtusher131&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhtusher131&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-def generate_readme(name, title, location, linkedin, github, skills, projects, publications, achievements):
-    readme_content = f"""
-# Hi there, I'm {name} 👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mhtusher131&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💻 Junior Software Engineer | {location}
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-{linkedin.split('/')[-1]}-blue)]({linkedin})
-[![GitHub](https://img.shields.io/badge/GitHub-{github.split('/')[-1]}-black)]({github})
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mhtusher131&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mhtusher131&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## 🚀 Skills & Technologies
-
-- **Programming Languages:** {', '.join(skills['languages'])}
-- **Libraries & Tools:** {', '.join(skills['tools'])}
-- **Architecture & Methodologies:** {', '.join(skills['architecture'])}
-- **Problem Solving:** {', '.join(skills['problem_solving'])}
-
----
-
-## 📌 Projects
-
-"""
-    for project in projects:
-        readme_content += f"- **{project['name']}**\n  - {project['description']}\n"
-    
-    readme_content += """
----
-
-## 📚 Publications
-
-"""
-    for pub in publications:
-        readme_content += f"- [{pub['title']}]({pub['link']})\n"
-    
-    readme_content += """
----
-
-## 🏅 Achievements & Extracurricular Activities
-
-"""
-    for achievement in achievements:
-        readme_content += f"- {achievement}\n"
-
-    with open("README.md", "w") as file:
-        file.write(readme_content)
-
-    print("✅ README.md generated successfully!")
-
-# User details from the resume
-name = "Md Mahamudul Hasan"
-title = "Junior Software Engineer"
-location = "Dhaka, Bangladesh"
-linkedin = "https://www.linkedin.com/in/mhtusher131"
-github = "https://github.com/mhtusher131"
-
-skills = {
-    "languages": ["Python", "JavaScript", "SQL", "HTML", "CSS"],
-    "tools": ["Django", "Ajax", "Tailwind", "Git", "MySQL", "REST APIs"],
-    "architecture": ["Agile", "DevOps", "ITSM", "ITIL4"],
-    "problem_solving": ["DSA", "LeetCode", "Competitive Programming"]
-}
-
-projects = [
-    {"name": "Bangla License Plate Recognition", "description": "Developed CNN model for Bengali character recognition with 85% accuracy using GFPGAN and morphological processing."},
-    {"name": "Bangla Text Summarization", "description": "Built a deep learning Seq2seq and T5 transformer model for abstractive Bangla text summarization."},
-    {"name": "To-Do Application", "description": "Developed a Django-based task management app with user authentication, CRUD, filtering, and due date tracking."}
-]
-
-publications = [
-    {"title": "Bengali License Plate Recognition: Unveiling Clarity with CNN and GFPGAN", "link": "https://ieeexplore.ieee.org/document/10441040"},
-    {"title": "Advancing Abstractive Bangla Text Summarization: A Deep Learning Approach Using Seq2seq Encoder-Decoder Model and T5 Transformer", "link": "https://ieeexplore.ieee.org/document/10464712"}
-]
-
-achievements = [
-    "Solved 200+ problems on LeetCode and Codeforces.",
-    "Active member of AUST Innovation & Design Club, contributing to hackathons and team projects.",
-    "Published 2 IEEE papers on Bengali NLP & OCR technologies."
-]
-
-# Generate the README file
-generate_readme(name, title, location, linkedin, github, skills, projects, publications, achievements)
-**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
